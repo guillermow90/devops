@@ -9,8 +9,8 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.aquarella</groupId>
-  <artifactId>portal-aquarella-guillermo</artifactId>
-  <name>portal-aquarella-guillermo</name>
+  <artifactId>proyecto-devops</artifactId>
+  <name>royecto-devops</name>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <description>Portal web del Banco Aquarella</description>
