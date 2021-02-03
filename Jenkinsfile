@@ -9,7 +9,7 @@ pipeline {
     stage('Compilación') {
       steps {
         script {
-          sendSlackStageMessage(this)
+          //sendSlackStageMessage(this)
           buildMaven(this)
         }
       }
