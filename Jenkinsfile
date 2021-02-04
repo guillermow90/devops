@@ -14,9 +14,19 @@ pipeline {
         }
       }
     }
+    
+    stage('Tests unitarios') {
+      steps {
+        script {
+          //sendSlackStageMessage(this)
+          testJUnit(this)
+        }
+      }
+    }
 
 
   }
+  
 
 
 }
