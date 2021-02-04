@@ -10,7 +10,7 @@
   </parent>
   <groupId>com.aquarella</groupId>
   <artifactId>proyecto-devops</artifactId>
-  <name>proyecto-devops</name>
+  <name>royecto-devops</name>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <description>Portal web del Banco Aquarella</description>
