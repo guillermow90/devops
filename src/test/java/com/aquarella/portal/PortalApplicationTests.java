@@ -11,7 +11,7 @@ class PortalApplicationTests {
 	@Test
 	@DisplayName("Test de la suma")
 	void suma() {
-		assertEquals(2, 1 + 1);
+		assertEquals(2, 1 + 3);
 	}
 
 	@Test
